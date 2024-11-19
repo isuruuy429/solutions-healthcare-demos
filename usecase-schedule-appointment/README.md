@@ -28,7 +28,7 @@ Shortly after, Glen receives a confirmation notification within the web app, sta
 Glen feels reassured knowing he has an appointment with a cardiologist. He goes about his day, confident that he will soon receive medical care.
 
 ## Running the App
-1. Setup and run the [Aggregate-Backend](aggregate-service/Readme.md)
+1. Setup and run the [Medconnect-Service](../usecase-schedule-appointment/src/medconnect-service/Readme.md)
 1. Navigate to the directory, 'Davinci_Coverage_Demo_app'
 2. Execute the following command. 
 ```
